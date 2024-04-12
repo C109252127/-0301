@@ -4,9 +4,13 @@
  | 學校             | 國立高雄科技大學                  |
  | 電子郵件         | c109252127@nkust.edu.tw          |
  | 選修             | 智慧城市導論                  |
-# 最大字體
-## 次大字體
-### 次次大字體
+# 自我介紹
+## 後學自小就是胎裡素，故不與眾生結惡緣，這是身為彌勒弟子的堅持，目前接任學校命理研究社社長
+### 大學畢業後 將前往 一貫道崇德學院就讀碩士班，畢業後推動救渡原佛子的工作。
+<a href="https://www.youtube.com/watch?v=Hc0lAc9iIbo&list=PLUzbsNc1G_CQ3nKCP3uIicYJihHrSo_7m" target="_blank"><img src="https://i.ytimg.com/vi/Hc0lAc9iIbo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0SauOGQt-a3FQVyhkpiTwQCVxKg"
+alt="一貫道 簡介 " width="400" height="250" border="10" /></a>
+
+# 自我介紹 QR CORD
 <img src="https://s05.calm9.com/qrcode/2024-04/XUI5F5H57Y.png" width=300 height=300 />
 
 ```
